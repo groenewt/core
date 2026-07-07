@@ -1,0 +1,9 @@
+[submodule "specs"]
+	path = specs
+	url = https://github.com/groenewt/base_aobs
+[submodule "templates"]
+	path = templates
+	url = https://github.com/groenewt/base_templates
+[submodule "sbin"]
+	path = sbin
+	url = https://github.com/groenewt/base_bin
